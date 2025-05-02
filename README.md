@@ -1,4 +1,4 @@
-this is a simple point of sales system
+This is a simple point of sales system
 
 sitemap --> https://www.gloomaps.com/Tvpei6eRrC
 
